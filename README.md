@@ -1,5 +1,4 @@
 Исследование и разработка моделей сегментации человека на фотографии. \
-Ссылка на задание: https://github.com/machine-intelligence-laboratory/MILTestTasks/tree/task/human_segmentation 
 
 Содержание:
 1) results содержит html страницу с предсказанием модели для всех картинок из test и папку с используемыми картинками в этой html странице для её просмотра.
